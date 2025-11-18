@@ -1,53 +1,44 @@
-Portafolio Personal | Detalle Técnico del Repositorio
+# 💻 Portafolio / CV - Juan Andrés Lucero Ortega
 
-Este repositorio contiene el código fuente de mi portafolio profesional, diseñado para mostrar mi experiencia en desarrollo Front-end y diseño adaptativo.
+## 📋 Descripción del Proyecto
 
-💡 Diseño y Estructura del Sitio
+Este proyecto es el **Portafolio y Currículum Vitae (CV)** de **Juan Andrés Lucero Ortega**, un profesional con experiencia en **Diseño y Programación Multimedia**. Su objetivo es presentar de manera digital y estructurada su experiencia laboral, habilidades técnicas, formación académica y proyectos clave en las áreas de diseño web y gráfico.
 
-Este sitio web es una Single Page Application (SPA) simple y estática, enfocada en la velocidad de carga y la accesibilidad.
+El sitio está desarrollado como una **Single Page Application (SPA)** o página única, lo que permite una navegación fluida y rápida a través de sus secciones principales: Inicio, Experiencia, Habilidades, Portafolio y Contacto.
 
-Diseño Responsive: Fue construido bajo una filosofía Mobile First, asegurando que la interfaz de usuario se adapte perfectamente a cualquier dispositivo (móvil, tablet o escritorio).
+***
 
-Navegación Fluida: La navegación utiliza scroll suave basado en JavaScript vanilla para mejorar la experiencia de usuario al saltar entre las secciones (Inicio, Experiencia, Habilidades, Portafolio, Contacto).
+## 🚀 Tecnologías Utilizadas
 
-Minimalismo: Se priorizó el uso de HTML y CSS puro, con JavaScript únicamente para manejar la interactividad mínima (como el scroll y posiblemente un menú burger en móvil), evitando la dependencia de frameworks pesados en el core del sitio.
+La base del proyecto es el desarrollo **Frontend** estándar, utilizando un enfoque que garantiza la compatibilidad y la adaptabilidad a diferentes dispositivos.
 
-🛠️ Tecnologías Clave Utilizadas
+### 🌐 Lenguajes y Estándares Principales
+* **HTML5:** Utilizado para la estructura semántica y el contenido principal del sitio.
+* **CSS3:** Manejo de la presentación, estilos y animaciones visuales.
+* **JavaScript:** Implementación de interactividad y manejo de eventos del lado del cliente.
 
-Las herramientas esenciales para la construcción y despliegue de este sitio son:
+### 🖼️ Metodología y Librerías
+* **Diseño Adaptativo (Responsive Design):** El diseño asegura la correcta visualización en dispositivos móviles, tabletas y escritorios.
+* **Bootstrap:** Utilizado en algunos proyectos para facilitar el diseño responsive y el desarrollo de componentes de interfaz.
 
-| Tecnología | Propósito en el Sitio |
-| HTML5 | Estructura semántica y base del contenido. |
-| CSS3 | Estilizado, manejo de layout con Flexbox y diseño adaptativo. |
-| JavaScript (Vanilla) | Interactividad, manejo de eventos y lógica para la navegación. |
-| GitHub Pages | Plataforma de hosting estático para el despliegue público del portafolio. |
+### 🛠️ Herramientas y Habilidades Adicionales (Mencionadas en el CV)
+* **CMS (Content Management Systems):** Experiencia con WordPress y PrestaShop (e-commerce).
+* **Diseño Gráfico y Prototipado:** Dominio de Adobe Creative Suite y Figma.
+* **Otros:** Mailing & Gráfica.
 
-📂 Estructura del Repositorio
+***
 
-El repositorio está organizado de forma clara para facilitar la revisión del código y los activos:
+## 📂 Estructura de Carpetas
 
-/
-├── index.html          # Archivo principal del portafolio.
-├── assets/             # Contiene todos los archivos de soporte.
-│   ├── img/            # Imágenes de proyectos, fondo, y logos.
-│   ├── css/            # Hojas de estilo personalizadas (si aplica).
-│   └── js/             # Archivos JavaScript para la interactividad.
-└── README.md           # Este archivo.
-
-
-
-🌐 Despliegue y URL
-
-El sitio está desplegado de forma gratuita a través de GitHub Pages, utilizando la rama principal (main) de este repositorio.
-
-URL del Sitio: https://andrewscore.github.io/portafolio/
-
-📞 Contacto
-
-Si tienes preguntas sobre la implementación técnica o deseas contactarme, puedes hacerlo a través de:
-
-Correo Electrónico: [juan_lucero24@hotmail.com]
-
-WhatsApp: [+56 9 XXXXXXXX] (Reemplaza con tu número real)
-
-Este portafolio fue creado y diseñado por Juan Andrés Lucero Ortega.
+La estructura de archivos sigue un patrón común y organizado para proyectos de portafolio sencillos alojados en GitHub Pages, separando la presentación, la lógica y los activos multimedia.
+portafolio/
+├── index.html
+├── README.md
+├── favicon.ico
+└── assets/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── main.js
+    └── img/
+        └── [Imágenes del portafolio y gráficos]
