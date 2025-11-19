@@ -48,5 +48,14 @@ portafolio/
         └── decoplantas-imagen.jpg
         └── iguana-page-imagen.jpg
         └── web-design-background.gif
-        
+```        
+### 🖼️ imagenes e folks y pull request a proyectos de compañeros
 
+
+![folk-proyecto-ariadnajara](https://github.com/user-attachments/assets/d48cb832-b800-489f-acd3-9260548106ce)
+![Ajuste-clase-bootstrap-responsivo-pull-requests](https://github.com/user-attachments/assets/e6082f8e-8694-4fc3-bcb1-3af6f942b98a)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![folk-proyecto-hallerjack](https://github.com/user-attachments/assets/a0595a81-00d7-4d19-ac68-8081cc46c5a3)
+![ajustes-menu-version-mobile-pull-requests](https://github.com/user-attachments/assets/58834649-3785-45f7-83c5-475691e171c1)
